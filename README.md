@@ -11,3 +11,4 @@ short_description: movie recommendation website
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+check out the result of this project at https://huggingface.co/spaces/Jatin1122/movie_recommendation
